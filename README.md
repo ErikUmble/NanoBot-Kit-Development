@@ -1,2 +1,2 @@
-# NanoBot-Research
-Robotic kit development for undergraduate classes
+# NanoBot-Kit-Development
+Developing robotic kits for projects in perception, movement, and bluetooth communication for undergraduate classes.
